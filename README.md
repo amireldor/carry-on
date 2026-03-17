@@ -9,10 +9,10 @@ A reverse proxy dev server that forwards your requests with the fury of a thousa
 ## Install
 
 ```sh
-go install github.com/amir/carry-on@latest
+go install github.com/amireldor/carry-on@latest
 ```
 
-Or grab a binary from [releases](https://github.com/amir/carry-on/releases).
+Or grab a binary from [releases](https://github.com/amireldor/carry-on/releases).
 
 ## Usage
 
